@@ -1,6 +1,9 @@
-# SDS315
-# HW2
-## Surafel Geleta
-## ssg2775
+# Hw2: Surafel Geleta 
+This homework investigates four problems using visualization and data wrangling
 
+# Required libraries and software
+- R and RStudio
+- packages `tidyverse` and `kableExtra`
 
+# Data
+Data used is included in four .csv files in this repository.
