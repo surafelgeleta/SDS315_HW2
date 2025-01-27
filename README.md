@@ -1,4 +1,4 @@
-# Hw2: Surafel Geleta 
+# Hw2 
 This homework investigates four problems using visualization and data wrangling
 
 # Required libraries and software
